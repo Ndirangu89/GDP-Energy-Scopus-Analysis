@@ -36,6 +36,6 @@ The main goal was to merge these datasets, clean inconsistencies, and extract in
 - Renaming, dropping, and standardizing columns.  
 - Dealing with missing and inconsistent data.  
 - Merging multiple datasets from different sources.  
-- Following **PEP8 documentation** and adding **Markdown intuition** in Jupyter notebooks.  
+- Following PEP8 documentation and adding Markdown intuition in Jupyter notebooks.  
 
 ---
