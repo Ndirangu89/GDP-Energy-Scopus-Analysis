@@ -1,6 +1,6 @@
 # Data Wrangling with GDP, Energy, and ScimEn Data
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates **data wrangling and cleaning** using three real-world datasets:
 1. **Energy Indicators** – Energy Supply and Renewable metrics.  
 2. **World Bank GDP** – GDP data from 1960–2015.  
@@ -10,7 +10,7 @@ The main goal was to merge these datasets, clean inconsistencies, and extract in
 
 ---
 
-## 🛠️ Tasks Performed
+## Tasks Performed
 - Cleaned and standardized country names.  
 - Converted missing values and handled invalid entries.  
 - Adjusted units (e.g., converting Energy Supply).  
@@ -21,7 +21,7 @@ The main goal was to merge these datasets, clean inconsistencies, and extract in
 
 ---
 
-## 📊 Final Dataset
+## Final Dataset
 - **Rows**: 15 countries  
 - **Columns**: 20  
 - Structure includes:
@@ -31,7 +31,7 @@ The main goal was to merge these datasets, clean inconsistencies, and extract in
 
 ---
 
-## 💡 Key Learning Outcomes
+## Key Learning Outcomes
 - Handling messy data with Pandas.  
 - Renaming, dropping, and standardizing columns.  
 - Dealing with missing and inconsistent data.  
@@ -39,12 +39,3 @@ The main goal was to merge these datasets, clean inconsistencies, and extract in
 - Following **PEP8 documentation** and adding **Markdown intuition** in Jupyter notebooks.  
 
 ---
-
-## 📂 Repository Structure
-├── data/
-|   --- Energy Indicators.xls
-|   --- scimagojr-3.xlsx
-|   --- world_bank.csv
-├── notebook/ # Jupyter Notebook with full code
-├── README.md # Project summary
-└── requirements.txt # Dependencies
